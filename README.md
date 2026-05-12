@@ -1,4 +1,10 @@
-# HR Analytics Dashboard
+#📊  HR Analytics Dashboard
+
+![HR Analytics Dashboard](dashboard_preview.png)
+
+## 📁 Dataset
+- 1,480 employee records
+- 38 columns analyzed
 
 This project analyzes HR data to provide insights into workforce trends, employee attrition, and other key HR metrics. The data is visualized using Power BI to help HR professionals make data-driven decisions.
 
